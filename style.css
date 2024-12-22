@@ -1,0 +1,51 @@
+.img1{
+    width: 100px;
+    border-radius:  100%;
+    margin: auto;
+    display: block;
+}
+
+.div1{
+    background-color: rgb(24, 24, 24);
+    width: 500px;
+    margin: auto;
+    border-radius: 20px;
+    padding:20px;
+}
+
+/* body{
+    display: flex;
+    justify-content: center;
+} */
+
+.h11{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.p1{
+    text-align: center;
+    color: rgb(187, 255, 0);
+}
+
+
+.p2{
+    text-align: center;
+    color: white;
+}
+
+.btn1{
+    display: block;
+    margin: auto;
+    width: 100%;
+    background-color: hsl(0, 0%, 20%);
+    padding: 10px;
+    margin-bottom: 25px;
+    border-radius: 20px;
+    border: none;
+    color: white;
+}
+body{
+    background-color: black;
+}
